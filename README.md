@@ -1,2 +1,2 @@
 # CrackingCodesWithPythonAndCsharp
-translation of Al Sweigarts PYthon book into Csharp 
+translation of Al Sweigarts Python book into Csharp 
